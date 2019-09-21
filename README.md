@@ -3,5 +3,5 @@ Search through CloudMigrator log files and extract each one containing the desir
 
 ## Inputs
 
-argv[1] = Path to the CloudMigrator log being parsed
+argv[1] = Path to the CloudMigrator log being parsed  
 w = Value being searched for (default="[Warn]")
